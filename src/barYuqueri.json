@@ -1,0 +1,27 @@
+{
+  "tragos": [
+    { "nombre": "Fernet", "precio": 900 },
+    { "nombre": "Gin-tonic", "precio": 900 },
+    { "nombre": "Gancia", "precio": 700 },
+    { "nombre": "Campari", "precio": 700 },
+    { "nombre": "Vodka", "precio": 700 }
+  ],
+  "vinos": [
+    { "nombre": "Cordero con piel de Lobo", "precio": "" },
+    { "nombre": "Alma mora", "precio": "" }
+  ],
+  "whisky": [
+    { "nombre": "Blenders Pride (medida)", "precio": 800 },
+    { "nombre": "Red label (medida)", "precio": 1200 }
+  ],
+  "cervezas": [
+    { "nombre": "Quilmes", "precio": "700" },
+    { "nombre": "Imperial Golden", "precio": "700" }
+  ],
+  "bebidas sin alcohol": [
+    { "nombre": "Agua 500ml", "precio": 300 },
+    { "nombre": "Vaso de Coca cola", "precio": 500 },
+    { "nombre": "Vaso de Sprite", "precio": 500 },
+    { "nombre": "Vaso de tonica", "precio": 500 }
+  ]
+}
